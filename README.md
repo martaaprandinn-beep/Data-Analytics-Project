@@ -9,8 +9,6 @@ We combined two data sources — the **MusicBrainz API** (artist discographies) 
 
 ## Headline finding
 
-![Headline chart](reports/figures/chart_headline.png)
-
 The career bump is **real but concentrated at the podium**: winners (+0.4 releases/yr) and especially runners-up (+0.9/yr) increase their output after Eurovision, while mid-table finishers (4th–10th) actually release slightly less (−0.5/yr). Activity spikes in the Eurovision year and fades within 2–3 years — **it's the platform, not the trophy, that matters.**
 
 ## Three key findings
