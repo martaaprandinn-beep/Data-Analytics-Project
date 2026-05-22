@@ -63,8 +63,8 @@ Data-Analytics-Project/
 
 ## Limitations
 
-Small sample (~99 artists), MusicBrainz coverage varies by country, correlation ≠ causation, recent finishers are right-censored, and ~1/3 of artists lacked usable genre data. See `05_final_report.ipynb` for the full discussion.
+Small sample (roughly 99 artists), MusicBrainz coverage varies by country, correlation ≠ causation, recent finishers are right-censored, and ~1/3 of artists lacked usable genre data. See `05_final_report.ipynb` for the full discussion.
 
 ## Authors
 
-Marta Prandin + teammate — Albert School, 2026.
+Marta Prandin + Paloma Lao — Albert School, 2026.
