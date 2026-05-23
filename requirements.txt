@@ -1,0 +1,22 @@
+# Eurovision Career-Bump project — pinned dependencies
+
+# Core
+pandas==2.2.2
+numpy==1.26.4
+
+# Data collection 
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.2.2
+html5lib==1.1
+
+# File formats
+pyarrow==16.1.0
+
+# Analysis & visualisation
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# Notebooks
+jupyterlab==4.2.0
+ipykernel==6.29.4
