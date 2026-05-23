@@ -8,7 +8,8 @@ A data project for **Data Projects — Albert School**.
 We combined two data sources — the **MusicBrainz API** (artist discographies) and **Wikipedia scraping** (artist bios) — to measure whether Eurovision top-10 finishers from 2015 to 2025 release more music *after* the contest than *before*.
 
 ## Headline finding
-<img width="1043" height="580" alt="FAB6F5D2-91BD-4AD8-B44B-AF326FC4C217" src="https://github.com/user-attachments/assets/48be5c2d-cccb-4e5f-9296-eb6e09f450c8" />
+<img width="910" height="524" alt="96EA10A5-C4EA-45BB-9756-A935533AB1EE" src="https://github.com/user-attachments/assets/2d871cc2-d18d-47ec-843e-63120d816b89" />
+
 
 
 The career bump is **real but concentrated at the podium**: winners (+0.4 releases/yr) and especially runners-up (+0.9/yr) increase their output after Eurovision, while mid-table finishers (4th–10th) actually release slightly less (−0.5/yr). Activity spikes in the Eurovision year and fades within 2–3 years — **it's the platform, not the trophy, that matters.**
