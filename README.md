@@ -1,7 +1,7 @@
 # The Eurovision Career-Bump Effect (2015–2025)
 
 A data project for **Data Projects — Albert School**.
-**Team:** Marta Prandin + teammate.
+**Team:** Marta Prandin + Paloma Lao.
 
 > **Does placing top-10 at Eurovision actually launch a music career?**
 
